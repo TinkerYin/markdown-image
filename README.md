@@ -1,1 +1,1 @@
-# markdown-image
+# image-host
